@@ -1,8 +1,8 @@
-package P02WorkingWithAbstractionsExercise.P06GreedyTimes;
+package P01WorkingWithAbstractionsExercise.P06GreedyTimes;
 
 import java.util.*;
 
-import static P02WorkingWithAbstractionsExercise.P06GreedyTimes.Type.*;
+import static P01WorkingWithAbstractionsExercise.P06GreedyTimes.Type.*;
 
 public class Bag {
     private final List<Item> items;

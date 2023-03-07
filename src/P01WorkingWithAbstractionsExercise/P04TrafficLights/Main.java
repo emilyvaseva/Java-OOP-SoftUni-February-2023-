@@ -1,4 +1,4 @@
-package P02WorkingWithAbstractionsExercise.P04TrafficLights;
+package P01WorkingWithAbstractionsExercise.P04TrafficLights;
 
 import java.util.Scanner;
 

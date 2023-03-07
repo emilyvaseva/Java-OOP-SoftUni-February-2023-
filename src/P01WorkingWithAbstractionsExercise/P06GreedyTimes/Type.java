@@ -1,4 +1,4 @@
-package P02WorkingWithAbstractionsExercise.P06GreedyTimes;
+package P01WorkingWithAbstractionsExercise.P06GreedyTimes;
 
 public enum Type {
     GOLD,

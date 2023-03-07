@@ -1,4 +1,4 @@
-package P02WorkingWithAbstractionsExercise.P02CardRank;
+package P01WorkingWithAbstractionsExercise.P02CardRank;
 
 public class Main {
     enum CardRank{
@@ -14,7 +14,7 @@ public class Main {
         TEN,
         JACK,
         QUEEN,
-        KIN
+        KING
     }
     public static void main(String[] args) {
         System.out.println("Card Ranks:");

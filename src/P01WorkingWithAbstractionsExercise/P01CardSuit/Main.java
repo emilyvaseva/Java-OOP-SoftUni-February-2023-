@@ -1,4 +1,4 @@
-package P02WorkingWithAbstractionsExercise.P01CardSuit;
+package P01WorkingWithAbstractionsExercise.P01CardSuit;
 
 public class Main {
     enum CardSuit{
