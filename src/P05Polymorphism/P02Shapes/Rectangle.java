@@ -1,12 +1,14 @@
 package P05Polymorphism.P02Shapes;
 
 public class Rectangle extends Shape {
-    private double height;
-    private double width;
+    private Double height;
+    private Double width;
 
-    public Rectangle(double height, double width) {
+    public Rectangle(Double height, Double width) {
         this.height = height;
         this.width = width;
+        super.setArea(this.calculateArea());
+        super.setPerimeter(this.calculatePerimeter());
     }
 
     public double getHeight() {
